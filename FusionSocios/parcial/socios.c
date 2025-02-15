@@ -2,7 +2,7 @@
 #include "../include/socios.h"
 
 /**
-Para su resolución puede ayudarse de las siguientes funciones provistas.
+Para su resoluciÃ³n puede ayudarse de las siguientes funciones provistas.
 --------------------------------------------
 int cmp_socios_res(const void *v1, const void *v2)
 
@@ -76,14 +76,14 @@ void menu(){
         if(opc == 'b')
             mostrar_archivo_socios_b("../Archivos/socios_b.txt");
         if(opc == 'f'){
-            printf("\n[1]Conservar antiguedad mayor\n[2]Conservar antiguedad menor\n[3]Resetear antiguedad a fecha actual\n");
+            printf("\n[a]Conservar antiguedad mayor\n[b]Conservar antiguedad menor\n[c]Resetear antiguedad a fecha actual\n");
             fflush(stdin);
             opc = getchar();
-            if(opc == '1')
+            if(opc == 'a')
                 unificar_clubes("../Archivos/socios_a.bin", "../Archivos/socios_b.txt", "../Archivos/fusion_mayor.txt", sizeof(t_socio), 1);
-            if(opc == '2')
+            if(opc == 'b')
                 unificar_clubes("../Archivos/socios_a.bin", "../Archivos/socios_b.txt", "../Archivos/fusion_menor.txt", sizeof(t_socio), 2);
-            if(opc == '3')
+            if(opc == 'c')
                 unificar_clubes("../Archivos/socios_a.bin", "../Archivos/socios_b.txt", "../Archivos/fusion_cero.txt", sizeof(t_socio), 3);
 
         }
@@ -95,7 +95,7 @@ void menu(){
 int unificar_clubes(const char* nombreArchA, const char* nombreArchB, const char* nombreArchFin, size_t tamElem, int flag){
     int res;
     t_socio *auxB, auxA;
-    auxB = NULL;
+    auxB = malloc(sizeof(t_socio));
     FILE* pfA;
     FILE* pfB;
     FILE* pfF;
@@ -183,6 +183,9 @@ int unificar_clubes(const char* nombreArchA, const char* nombreArchB, const char
             }
         }
     }
+    fclose(pfA);
+    fclose(pfB);
+    fclose(pfF);
     return 1;
 }
 
