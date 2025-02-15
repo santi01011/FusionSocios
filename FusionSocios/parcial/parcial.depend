@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1433234000 source:c:\users\federico\dropbox\examenesenmaquina\2015-06-02\entregable_2015-06-02\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<banco.h>
+	<utilitarias.h>
+
+1433234090 c:\users\federico\dropbox\examenesenmaquina\2015-06-02\entregable_2015-06-02\include\banco.h
+	<stdio.h>
+	<tipos.h>
+	<lista.h>
+
+1433234145 c:\users\federico\dropbox\examenesenmaquina\2015-06-02\entregable_2015-06-02\include\tipos.h
+
+1433229122 c:\users\federico\dropbox\examenesenmaquina\2015-06-02\entregable_2015-06-02\include\lista.h
+	<tipos.h>
+
+1433229739 c:\users\federico\dropbox\examenesenmaquina\2015-06-02\entregable_2015-06-02\include\utilitarias.h
+	<banco.h>
+
+1433234000 source:i:\entregable_2015-06-02\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<banco.h>
+	<utilitarias.h>
+
+1433234090 i:\entregable_2015-06-02\include\banco.h
+	<stdio.h>
+	<tipos.h>
+	<lista.h>
+
+1433234146 i:\entregable_2015-06-02\include\tipos.h
+
+1433229122 i:\entregable_2015-06-02\include\lista.h
+	<tipos.h>
+
+1433229740 i:\entregable_2015-06-02\include\utilitarias.h
+	<banco.h>
+
+1433263204 source:i:\entregable_2015-06-02\parcial\banco.c
+	<banco.h>
+	<lista.h>
+	<utilitarias.h>
+	<string.h>
+	<stdlib.h>
+
+1433263210 source:i:\entregable_2015-06-02\parcial\utilitarias.c
+	<stdio.h>
+	<string.h>
+	<utilitarias.h>
+	<banco.h>
+
+1433263190 source:i:\entregable_2015-06-02\parcial\lista.c
+	<lista.h>
+	<stdlib.h>
+	<stdio.h>
+
+1433263668 source:c:\users\federico\dropbox\examenesenmaquina\2016-05-26\parcial\lista.c
+	<lista.h>
+	<stdlib.h>
+	<stdio.h>
+
+1464211756 c:\users\federico\dropbox\examenesenmaquina\2016-05-26\include\lista.h
+	<tipos.h>
+
+1433234145 c:\users\federico\dropbox\examenesenmaquina\2016-05-26\include\tipos.h
+
+1464213407 source:c:\users\federico\dropbox\examenesenmaquina\2016-05-26\parcial\utilitarias.c
+	<stdio.h>
+	<string.h>
+	<utilitarias.h>
+	<banco.h>
+
+1464211093 c:\users\federico\dropbox\examenesenmaquina\2016-05-26\include\utilitarias.h
+	<banco.h>
+
+1464211613 c:\users\federico\dropbox\examenesenmaquina\2016-05-26\include\banco.h
+	<stdio.h>
+	<tipos.h>
+	<lista.h>
+
+1464213393 source:c:\users\federico\dropbox\examenesenmaquina\2016-05-26\parcial\banco.c
+	<banco.h>
+	<lista.h>
+	<utilitarias.h>
+	<string.h>
+	<stdlib.h>
+
+1464213314 source:c:\users\federico\dropbox\examenesenmaquina\2016-05-26\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<banco.h>
+	<utilitarias.h>
+
+1477085425 source:c:\users\fpezzola\desktop\2016-10-21\2016-10-21\parcial\lista.c
+	<lista.h>
+	<stdlib.h>
+	<stdio.h>
+
+1477066805 c:\users\fpezzola\desktop\2016-10-21\2016-10-21\include\lista.h
+	<tipos.h>
+
+1477061837 c:\users\fpezzola\desktop\2016-10-21\2016-10-21\include\tipos.h
+
+1477085080 source:c:\users\fpezzola\desktop\2016-10-21\2016-10-21\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<banco.h>
+	<utilitarias.h>
+
+1477085399 c:\users\fpezzola\desktop\2016-10-21\2016-10-21\include\banco.h
+	<stdio.h>
+	<tipos.h>
+	<lista.h>
+
+1477042688 c:\users\fpezzola\desktop\2016-10-21\2016-10-21\include\utilitarias.h
+	<banco.h>
+
+1477085443 source:c:\users\fpezzola\desktop\2016-10-21\2016-10-21\parcial\utilitarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<utilitarias.h>
+	<banco.h>
+
+1477085220 source:c:\users\fpezzola\desktop\2016-10-21\2016-10-21\parcial\banco.c
+	<banco.h>
+	<lista.h>
+	<utilitarias.h>
+	<string.h>
+	<stdlib.h>
+
+1732905374 source:g:\mi unidad\programacion\01 - t”picos\02 - parciales\01 - parcial\2023-06-26\2023-06-26\alumnos\entregable\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+
+1732897755 g:\mi unidad\programacion\01 - t”picos\02 - parciales\01 - parcial\2023-06-26\2023-06-26\alumnos\entregable\include\socios.h
+	"tipos.h"
+
+1732901507 g:\mi unidad\programacion\01 - t”picos\02 - parciales\01 - parcial\2023-06-26\2023-06-26\alumnos\entregable\include\tipos.h
+
+1732905207 source:g:\mi unidad\programacion\01 - t”picos\02 - parciales\01 - parcial\2023-06-26\2023-06-26\alumnos\entregable\parcial\socios.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"tipos.h"
+
+1732918617 source:c:\users\laboratorios\desktop\recuperatorio_2024_11_29\entregables\ejercicio1\parcial\socios.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"tipos.h"
+
+1732917583 c:\users\laboratorios\desktop\recuperatorio_2024_11_29\entregables\ejercicio1\include\socios.h
+	"tipos.h"
+
+1732901506 c:\users\laboratorios\desktop\recuperatorio_2024_11_29\entregables\ejercicio1\include\tipos.h
+
+1732918664 source:c:\users\laboratorios\desktop\recuperatorio_2024_11_29\entregables\ejercicio1\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+
+1733272100 source:c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\entregables\ejercicio1\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+
+1732917583 c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\entregables\ejercicio1\include\socios.h
+	"tipos.h"
+
+1732901506 c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\entregables\ejercicio1\include\tipos.h
+
+1732918617 source:c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\entregables\ejercicio1\parcial\socios.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"tipos.h"
+
+1733339579 source:c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\topicos\ejercicio\parcial\main.c
+	"../include/socios.h"
+
+1733339262 c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\topicos\ejercicio\include\socios.h
+	"tipos.h"
+
+1732901506 c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\topicos\ejercicio\include\tipos.h
+
+1733339262 source:c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\topicos\ejercicio\parcial\socios.c
+
+1687644306 source:c:\users\usuario\downloads\41474983_de-leon_cristian_parcial\topicos\ejercicio\parcial\utilitarias.c
+
+1687644306 source:c:\users\laboratorios\desktop\materiales\topicos\ejercicio\parcial\utilitarias.c
+
+1733442066 source:c:\users\laboratorios\desktop\materiales\topicos\ejercicio\parcial\main.c
+	"../include/socios.h"
+
+1733439756 c:\users\laboratorios\desktop\materiales\topicos\ejercicio\include\socios.h
+	"tipos.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1732901506 c:\users\laboratorios\desktop\materiales\topicos\ejercicio\include\tipos.h
+
+1733442025 source:c:\users\laboratorios\desktop\materiales\topicos\ejercicio\parcial\socios.c
+	"../include/socios.h"
+
